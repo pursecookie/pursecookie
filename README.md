@@ -11,12 +11,16 @@
 </div>
 
 ## 🎈Обо мне:
+
+
 * ушла из полиграфической сферы в IT-разработку;
 * окончила курс от Яндекс Практикума по направлению "Java-разработчик";
 * нахожусь в активном поиске работы в новой для себя среде;
 * постоянно обучаюсь и развиваюсь!
 
 ## 💻Технологический стек:
+
+
 <div>
 <img src="https://github.com/pursecookie/pursecookie/blob/main/icons/java-original.svg" title="JAVA 11" width="40" height="40"/>&nbsp
 <img src="https://github.com/pursecookie/pursecookie/blob/main/icons/spring-color.svg" title="SPRING FRAMEWORK" width="40" height="40"/>&nbsp
@@ -32,11 +36,15 @@
 </div>
 
 ## ✉️Связаться со мной:
+
+
 [![Telegram Badge](https://img.shields.io/badge/-@xeviaara-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/xeviaara)](https://t.me/xeviaara)
 [![Static Badge](https://img.shields.io/badge/-pursecookie%40yandex.ru-ffcc00?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto:pursecookie@yandex.ru)](mailto:pursecookie@yandex.ru)
 [![WhatsApp Badge](https://img.shields.io/badge/-+79817795162-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.clck.bar/79817795162)](https://wa.clck.bar/79817795162)
 
 ## 📊Немного статистики:
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pursecookie&show_icons=true&theme=nord)
 <br />
 ![](https://komarev.com/ghpvc/?username=pursecookie&color=blueviolet&style=for-the-badge)
