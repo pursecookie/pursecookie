@@ -40,7 +40,6 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-@xeviaara-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/xeviaara)](https://t.me/xeviaara)
 [![Static Badge](https://img.shields.io/badge/-pursecookie%40yandex.ru-ffcc00?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto:pursecookie@yandex.ru)](mailto:pursecookie@yandex.ru)
-[![WhatsApp Badge](https://img.shields.io/badge/-+79817795162-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.clck.bar/79817795162)](https://wa.clck.bar/79817795162)
 
 ## 📊Немного статистики:
 
